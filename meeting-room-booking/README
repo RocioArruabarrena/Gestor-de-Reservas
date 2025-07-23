@@ -1,0 +1,33 @@
+# Meeting Room Booking System
+
+Sistema de gestión de reservas de salas de reunión usando Programación Orientada a Objetos
+
+## Estructura
+
+- `src/models/`: Clases de dominio
+- `src/repositories/`: CRUD de usuarios, salas y reservas
+- `src/services/`: Logica de negocio
+- `src/patterns/`: Patrones de diseño (Singleton)
+- `tests/`: Pruebas 
+
+---
+
+## Requisitos
+
+- Python 3.10 o superior  
+- Docker
+
+---
+
+## Instrucciones para ejecutar el proyecto
+
+### Opción 1: Ejecutar en tu máquina
+
+1. Clonar este repositorio.
+2. Ejecutá el archivo principal:
+
+```bash
+python main.py
+
+
+
